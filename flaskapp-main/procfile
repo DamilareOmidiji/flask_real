@@ -1,1 +1,1 @@
-web: python3 catalogue.py
+web: python3.9 catalogue.py
